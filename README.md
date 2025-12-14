@@ -35,7 +35,7 @@
 
       <!-- 1 -->
       <div class="bg-white rounded-xl overflow-hidden shadow-md">
-        <img src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/07/amoderncleanworkspaceshowcasingfront-endcodesnippetsonasleeklaptopscreensurroundedbytailwindcsslogoshtml5andfirebaseicons5315964892159237038.jpg" class="w-full h-48 object-cover">
+        <img src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/12/imagine_15462143230908918843052169799993526.jpg" class="w-full h-48 object-cover">
         <div class="p-4">
           <h2 class="font-semibold text-lg mb-2">what's New</h2>
           <p class="text-sm text-gray-600 mb-4">Unlock your digital potentials on AI with the ultimate guide.</p>
