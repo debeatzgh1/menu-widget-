@@ -282,12 +282,12 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
-# **👋 Hi, I'm David Kumah (DebeatzGH)**
+# **👋 Hi, I'm David (DebeatzGH)**
 
 ### *AI Tools Builder • UI/UX Creator • Digital Products Developer • Tech Blogger*
 
 <p align="center">
-  <img src="https://github.com/debeatzgh1.png" width="140" style="border-radius:50%">
+  <img src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/12/imagine_15462143230908918843052169799993526.jpg" width="140" style="border-radius:50%">
 </p>
 
 ---
