@@ -39,14 +39,14 @@
     <span class="close-btn">×</span>
 
     <div class="carousel-slide active" data-url="https://msha.ke/debeatzgh">
-      <img class="carousel-thumb" src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/designadigitalproductse-commerceonlinedeals3545265155247625100.jpg" />
+      <img class="carousel-thumb" src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/12/imagine_15462143230908918843052169799993526.jpg" />
       <div class="carousel-title">Website</div>
       <div class="carousel-desc">Check out our main website for digital products and deals.</div>
       <button class="carousel-btn" onclick="openIframe('https://msha.ke/debeatzgh')">Open Website</button>
     </div>
 
     <div class="carousel-slide" data-url="https://debeatzgh.wordpress.com/">
-      <img class="carousel-thumb" src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/12/1763148379311_1619032177476517720.jpg" />
+      <img class="carousel-thumb" src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/12/imagine_15462143230908918843052169799993526.jpg" />
       <div class="carousel-title">Blog</div>
       <div class="carousel-desc">Visit our blog for latest updates, guides, and news.</div>
       <button class="carousel-btn" onclick="openIframe('https://debeatzgh.wordpress.com/')">Open Blog</button>
