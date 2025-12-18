@@ -39,7 +39,7 @@
     <span class="close-btn">×</span>
 
     <div class="carousel-slide active" data-url="https://msha.ke/debeatzgh">
-      <img class="carousel-thumb" src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/12/imagine_15462143230908918843052169799993526.jpg" />
+      <img class="carousel-thumb" src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/11/imagine_15234543720335538285782119704501433.jpg" />
       <div class="carousel-title">Website</div>
       <div class="carousel-desc">Check out our main website for digital products and deals.</div>
       <button class="carousel-btn" onclick="openIframe('https://msha.ke/debeatzgh')">Open Website</button>
@@ -282,12 +282,13 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
-# **👋 Hi, I'm David (DebeatzGH)**
+# **👋 Welcome to DebeatzGH)**
 
-### *AI Tools Builder • UI/UX Creator • Digital Products Developer • Tech Blogger*
+### *Through these channels, are insights on technology, artificial intelligence, and productivity. It is a digital hub focused on empowering entrepreneurs, creators, and businesses in the digital space. Offers are a range of services including custom chatbot development, website creation, and mobile app building, alongside digital guides and strategic partnerships.,  It also provide tools and strategies for building an online presence, generating revenue, and leveraging AI for productivity and business growth. 
+*Browse a collection of AI Tools and Builders• UI/UX Creators• Digital Products and • Tech Blog*
 
 <p align="center">
-  <img src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/12/imagine_15462143230908918843052169799993526.jpg" width="140" style="border-radius:50%">
+  <img src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/11/imagine_15234543720335538285782119704501433.jpg" width="140" style="border-radius:50%">
 </p>
 
 ---
