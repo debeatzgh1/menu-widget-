@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -10,7 +10,7 @@
   @keyframes heartbeat {0%{transform:translateX(-50%) scale(1);}25%{transform:translateX(-50%) scale(1.08);}50%{transform:translateX(-50%) scale(1);}75%{transform:translateX(-50%) scale(1.08);}100%{transform:translateX(-50%) scale(1);}}
 
   #floating-btn {
-    position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
+    position: fixed; top: 20px; left: 50%; transform: translateX(-50%);
     width: 60px; height: 60px; background:#007bff; color:#fff;
     font-size:28px; display:flex; align-items:center; justify-content:center;
     cursor:pointer; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.3);
